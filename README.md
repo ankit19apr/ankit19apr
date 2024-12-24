@@ -34,7 +34,7 @@ _🚀 Cloud Platforms:_ Hands-on experience with Google Cloud, AWS, and Microsof
 
 **💼 Technical Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=java,selenium,github,eclipse,gherkin,idea,html,jenkins,ai,maven,postman,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,selenium,github,eclipse,gherkin,idea,html,jenkins,ai,maven,postman,gcp,sql)](https://skillicons.dev)
 
 **🔭 I'm currently working on**
 
