@@ -14,8 +14,8 @@ EmailAddress: ankitqatechie@gmail.com
 _🕵️‍♂️ QA Expertise:_ 12 years of ensuring software quality and reliability.
 
 _🤖 Automation Frameworks: _Proficient in Selenium WebDriver, Cucumber BDD, TestNG, and Page Object Model (POM) for robust test automation.
-_
-🌐 API Testing:_ Skilled in RestAssured and POSTMAN for seamless backend and API validations, ensuring robust integration testing.
+
+_🌐 API Testing:_ Skilled in RestAssured and POSTMAN for seamless backend and API validations, ensuring robust integration testing.
 
 _🔄 CI/CD Integration:_ Expertise in using GitHub Actions and Jenkins to integrate automated testing into pipelines for continuous delivery.
 
@@ -34,7 +34,7 @@ _🚀 Cloud Platforms:_ Hands-on experience with Google Cloud, AWS, and Microsof
 
 **💼 Technical Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=java,selenium,cucumber,testng,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,selenium,github)](https://skillicons.dev)
 
 **🔭 I'm currently working on**
 
