@@ -57,19 +57,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit19apr&show_icons=true&locale=en" alt="ankit19apr" /></p>
 
-**🔭 I'm currently working on**
-
-Working on Creating a Single Automation Framework that will be able to run UI/API Automated Tests Automatically.
-Postman Newman Automated Test
-
-**💻 My Projects**
-
-https://github.com/ankit19apr/DemoAPIAutomationFramework.git
-https://github.com/ankit19apr/automation-framework.git
-https://github.com/ankit19apr/SeleniumCucumberFramework.git
 
 **Contact**
-I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at ankitqatechie@gmail.com or connect with me on LinkedIn.
+I'm always open to new opportunities and collaborations. Feel free to reach out to me via email or connect with me on LinkedIn.
 
 Thank you for visiting my portfolio! I look forward to discussing how I can contribute to your projects and initiatives.
 
