@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit19apr&label=Profile%20views&color=0e75b6&style=flat" alt="ankit19apr" /> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit19apr&show_icons=true&locale=en&layout=compact" alt="ankit19apr" /></p>
+
 - 🔭 I’m currently working on
   -   **Creating a Single Automation Framework that will be able to run UI/API Automated Tests Automatically.**
   -    **Postman Newman Automated Test**
