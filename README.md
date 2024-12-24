@@ -8,27 +8,29 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit19apr" alt="ankit19apr" /></a> </p>
 
-- 🔭 I’m currently working on **Working on Creating a Single Automation Framework that will be able to run UI/API Automated Tests Automatically. Postman Newman Automated Test**
+- 🔭 I’m currently working on
+  -   **Creating a Single Automation Framework that will be able to run UI/API Automated Tests Automatically.**
+  -    **Postman Newman Automated Test**
 
-- 🌱 I’m currently learning **Currently exploring modern automation tools like Playwright and Cypress to expand testing capabilities.**
+- 🌱 I’m  **Currently exploring modern automation tools like Playwright and Cypress to expand testing capabilities.**
 
 **💻 Expertise Highlights:**
 
-- 🕵️‍♂️ **QA Expertise:** 12 years of ensuring software quality and reliability.
+  - 🕵️‍♂️ **QA Expertise:** 12 years of ensuring software quality and reliability.
 
-- 🤖 **Automation Frameworks:** Proficient in Selenium WebDriver, Cucumber BDD, TestNG, and Page Object Model (POM) for robust test automation.
+  - 🤖 **Automation Frameworks:** Proficient in Selenium WebDriver, Cucumber BDD, TestNG, and Page Object Model (POM) for robust test automation.
 
-- 🌐 **API Testing:** Skilled in RestAssured and POSTMAN for seamless backend and API validations, ensuring robust integration testing.
+  - 🌐 **API Testing:** Skilled in RestAssured and POSTMAN for seamless backend and API validations, ensuring robust integration testing.
 
-- 🔄 **CI/CD Integration:** Expertise in using GitHub Actions and Jenkins to integrate automated testing into pipelines for continuous delivery.
+  - 🔄 **CI/CD Integration:** Expertise in using GitHub Actions and Jenkins to integrate automated testing into pipelines for continuous delivery.
 
-- ☁️ **Cloud Testing:** Experienced in leveraging LambdaTest for scalable cross-browser testing in the cloud.
+  - ☁️ **Cloud Testing:** Experienced in leveraging LambdaTest for scalable cross-browser testing in the cloud.
 
-- 📊 **Data-Driven Testing:** Leveraging JSONReader and ExcelReader utilities for dynamic test scenarios.
+  - 📊 **Data-Driven Testing:** Leveraging JSONReader and ExcelReader utilities for dynamic test scenarios.
 
-- 📈 **Reporting & Logs:** Generating detailed, interactive reports using Extent Reports and implementing structured logs for debugging.
+  - 📈 **Reporting & Logs:** Generating detailed, interactive reports using Extent Reports and implementing structured logs for debugging.
 
-- 🚀 **Cloud Platforms:** Hands-on experience with Google Cloud, AWS, and Microsoft Azure for testing and deployment.
+  - 🚀 **Cloud Platforms:** Hands-on experience with Google Cloud, AWS, and Microsoft Azure for testing and deployment.
 
 
 
