@@ -1,6 +1,3 @@
-![c0a7c1a21d9445b8b99a30008232e3fa](https://github.com/user-attachments/assets/f484f767-891a-46bf-b59a-6d8ae3c00fb2)
-
-
 <h1 align="center">Hi 👋, I'm Ankit Sharma, a passionate QA professional with 12 years of experience in QA Testing, including 5+ years in Automation Testing.</h1>
 <h3 align="center">**⚡ Passionate Learner:**__ I am constantly enhancing my skill set to adopt cutting-edge tools and technologies, ensuring quality excellence in every project.</h3>
 
