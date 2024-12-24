@@ -1,4 +1,4 @@
-![FB_IMG_1735053069035](https://github.com/user-attachments/assets/c739e13e-d1c3-48c6-8ce9-159736c6d319)
+![c0a7c1a21d9445b8b99a30008232e3fa](https://github.com/user-attachments/assets/f484f767-891a-46bf-b59a-6d8ae3c00fb2)
 
 
 🚀 About Me
@@ -34,7 +34,7 @@ _🚀 Cloud Platforms:_ Hands-on experience with Google Cloud, AWS, and Microsof
 
 **💼 Technical Skills**
 
-Java Selenium TestNG Cucumber Postman MySQL JMeter AWS Azure GitHub 
+[![My Skills](https://skillicons.dev/icons?i=java,selenium,cucumber,testng,github)](https://skillicons.dev)
 
 **🔭 I'm currently working on**
 
