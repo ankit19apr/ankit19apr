@@ -2,7 +2,7 @@
 <h3 align="center">**⚡ Passionate Learner:**__ I am constantly enhancing my skill set to adopt cutting-edge tools and technologies, ensuring quality excellence in every project.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit19apr" alt="ankit19apr" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit19apr&label=Profile%20views&color=0e75b6&style=flat" alt="ankit19apr" /> </p>
 
 - 🔭 I’m currently working on
   -   **Creating a Single Automation Framework that will be able to run UI/API Automated Tests Automatically.**
