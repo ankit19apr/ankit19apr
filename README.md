@@ -9,27 +9,7 @@
 LinkedIn: https://www.linkedin.com/in/ankit19apr
 EmailAddress: ankitqatechie@gmail.com
 
-**💻 Expertise Highlights:**
 
-_🕵️‍♂️ QA Expertise:_ 12 years of ensuring software quality and reliability.
-
-_🤖 Automation Frameworks: _Proficient in Selenium WebDriver, Cucumber BDD, TestNG, and Page Object Model (POM) for robust test automation.
-
-_🌐 API Testing:_ Skilled in RestAssured and POSTMAN for seamless backend and API validations, ensuring robust integration testing.
-
-_🔄 CI/CD Integration:_ Expertise in using GitHub Actions and Jenkins to integrate automated testing into pipelines for continuous delivery.
-
-_☁️ Cloud Testing:_ Experienced in leveraging LambdaTest for scalable cross-browser testing in the cloud.
-
-_📊 Data-Driven Testing:_ Leveraging JSONReader and ExcelReader utilities for dynamic test scenarios.
-
-_📈 Reporting & Logs:_ Generating detailed, interactive reports using Extent Reports and implementing structured logs for debugging.
-
-_🚀 Cloud Platforms:_ Hands-on experience with Google Cloud, AWS, and Microsoft Azure for testing and deployment.
-
-**🛠️ Exploring Tools: **Currently exploring modern automation tools like Playwright and Cypress to expand testing capabilities.
-
-**⚡ Passionate Learner:**__ I am constantly enhancing my skill set to adopt cutting-edge tools and technologies, ensuring quality excellence in every project.
 
 
 **💼 Technical Skills**
@@ -46,6 +26,27 @@ _🚀 Cloud Platforms:_ Hands-on experience with Google Cloud, AWS, and Microsof
 - 🔭 I’m currently working on **Working on Creating a Single Automation Framework that will be able to run UI/API Automated Tests Automatically. Postman Newman Automated Test**
 
 - 🌱 I’m currently learning **Currently exploring modern automation tools like Playwright and Cypress to expand testing capabilities.**
+
+**💻 Expertise Highlights:**
+
+- 🕵️‍♂️ **QA Expertise:** 12 years of ensuring software quality and reliability.
+
+- 🤖 **Automation Frameworks:** Proficient in Selenium WebDriver, Cucumber BDD, TestNG, and Page Object Model (POM) for robust test automation.
+
+- 🌐 **API Testing:** Skilled in RestAssured and POSTMAN for seamless backend and API validations, ensuring robust integration testing.
+
+- 🔄 **CI/CD Integration:** Expertise in using GitHub Actions and Jenkins to integrate automated testing into pipelines for continuous delivery.
+
+- ☁️ **Cloud Testing:** Experienced in leveraging LambdaTest for scalable cross-browser testing in the cloud.
+
+- 📊 **Data-Driven Testing:** Leveraging JSONReader and ExcelReader utilities for dynamic test scenarios.
+
+- 📈 **Reporting & Logs:** Generating detailed, interactive reports using Extent Reports and implementing structured logs for debugging.
+
+- 🚀 **Cloud Platforms:** Hands-on experience with Google Cloud, AWS, and Microsoft Azure for testing and deployment.
+
+
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankit19apr/](https://github.com/ankit19apr/)
 
