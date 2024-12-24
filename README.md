@@ -58,14 +58,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit19apr&show_icons=true&locale=en" alt="ankit19apr" /></p>
 
 
-**
-I'm always open to new opportunities and collaborations. Feel free to reach out to me via email or connect with me on LinkedIn.
 
-Thank you for visiting my portfolio! I look forward to discussing how I can contribute to your projects and initiatives.**
+**I'm always open to new opportunities and collaborations. Feel free to reach out to me via email or connect with me on LinkedIn.**
 
-**📫 Let’s connect! Whether it’s about testing strategies, automation frameworks, or sharing knowledge, I’m always excited to collaborate.
+**Thank you for visiting my portfolio! I look forward to discussing how I can contribute to your projects and initiatives.**
+
+**📫 Let’s connect! Whether it’s about testing strategies, automation frameworks, or sharing knowledge, I’m always excited to collaborate.**__
 
 #QualityAssurance #TestAutomation #Selenium #Cucumber #TestNG #APITesting #Postman #ContinuousIntegration #CloudTesting #Playwright #Cypress #GoogleCloud #AWS #Azure
 
-🎯 Let’s build quality together!
-**__
+🎯 **Let’s build quality together!**__
+
