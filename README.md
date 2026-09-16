@@ -150,7 +150,7 @@ AI-Powered Quality Engineering & Release Intelligence Platform
 
 ## 📫 How to Reach Me
 
-**Email:** ankitqatechie@gmail.com
+**Email:** ________@gmail.com
 
 ---
 
