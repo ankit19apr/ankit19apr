@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
 
 <h3 align="center">
-Staff Engineer | SDET | Quality Engineering | Test Automation | AI & LLM Testing
+Staff Engineer | SDET | Quality Engineering | Test Automation | AI & LLM Testing | n8n AI Automation
 </h3>
 
 <p align="center">
@@ -13,7 +13,7 @@ Staff Engineer | SDET | Quality Engineering | Test Automation | AI & LLM Testing
 </h3>
 
 <p align="center">
-Building scalable automation frameworks and intelligent quality engineering solutions using modern technologies.
+Building scalable automation frameworks and intelligent quality engineering solutions using Playwright, TypeScript, Java, AI/LLM testing, and workflow automation.
 </p>
 
 <p align="left">
@@ -54,6 +54,21 @@ The goal is to move beyond traditional automation and answer:
 
 https://github.com/ankit19apr/q-gate-ai
 
+### 🤖 AI QA Bug Triage Automation
+
+An n8n-based QA workflow for automated bug ingestion, structured triage, duplicate detection, conditional routing, and Jira-ready defect processing.
+
+**Current MVP includes:**
+- n8n Webhook-based bug ingestion
+- Structured QA triage workflow
+- Duplicate bug detection
+- Conditional duplicate/new bug routing
+- Mock Jira defect creation
+- Postman-based API validation
+- AI Agent / LLM integration foundation
+
+🔗 https://github.com/ankit19apr/ai-qa-bug-triage-n8n
+
 ---
 
 ## 🚀 Future Enhancements
@@ -89,6 +104,8 @@ Continuing to evolve the framework toward:
 - 🔄 **CI/CD:** GitHub Actions and Jenkins with automated test execution and quality validation.
 
 - 🤖 **AI & Modern Testing:** AI-driven testing, AI Agent testing, LLM testing, hallucination testing and non-deterministic response validation.
+
+- ⚙️ **AI Workflow Automation:** n8n workflow automation, webhooks, API orchestration, AI-assisted QA workflows and automated defect triage.
 
 - 🧠 **AI Quality Engineering:** AI-assisted failure analysis, RCA, self-healing automation concepts and release quality intelligence.
 
@@ -126,6 +143,23 @@ A mature Quality Engineering solution should help answer:
 
 ---
 
+## 🧠 AI & QA Automation Focus
+
+I'm exploring practical ways to combine **AI, workflow automation, and Quality Engineering** to automate repetitive QA activities.
+
+Current focus areas:
+
+- 🤖 AI-powered bug triage
+- ⚙️ n8n workflow automation
+- 🧪 AI Agent and LLM testing
+- 🔎 Hallucination and non-deterministic response validation
+- 🎭 Playwright test automation
+- 🩹 AI-assisted failure analysis and RCA
+- 🔗 API and webhook-based QA integrations
+- 🚦 Quality gates and release intelligence
+
+---
+
 ## 👨‍💻 Projects
 
 All of my projects are available at:
@@ -144,7 +178,7 @@ AI-Powered Quality Engineering & Release Intelligence Platform
 
 ## 💬 Ask Me About
 
-**Playwright, TypeScript, JavaScript, Selenium WebDriver, Java, API Automation, Test Automation Frameworks, Test Architecture, CI/CD, Quality Engineering, AI Testing, LLM Testing, AI Agent Testing, Self-Healing Automation and Quality Gates.**
+**Playwright, TypeScript, JavaScript, Selenium WebDriver, Java, API Automation, Test Automation Frameworks, Test Architecture, CI/CD, Quality Engineering, AI Testing, LLM Testing, AI Agent Testing, n8n, AI Workflow Automation, Self-Healing Automation and Quality Gates.**
 
 ---
 
